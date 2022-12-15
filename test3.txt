@@ -1,1 +1,2 @@
 lijn 1 lokaal 11:10
+lijn 2 remote toegevoegd 11u17
